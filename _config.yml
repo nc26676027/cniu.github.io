@@ -1,27 +1,25 @@
 # Basic Information 
-title: Xianglong Deng
-position: Ph.D. Candidate
-affiliation: Institute of Information Engineering, CAS
-email: dengxianglong@iie.ac.cn
+title: Chao Niu
+position: Assistant Researcher
+affiliation: Ant Group
+email: niuchao6616@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: 邓翔龙, Xianglong Deng, 全同态加密, Fully Homomorphic Encryption, FHE, FHE加速, FHE硬件加速, FHE系统, 同态加密加速, 隐私计算, Privacy-preserving computation, 硬件安全, FPGA, 安全计算, 可信AI, Trusted AI, 加密算法优化, 密码学工程, 信息工程研究所, CAS, Institute of Information Engineering
+keywords: 牛超, Chao Niu, 同态密码, Fully Homomorphic Encryption, FHE, 密态计算, 隐私计算, Privacy-preserving computation, 对称密码安全性分析, 密码学, 蚂蚁集团, Ant Group
 
-description: Xianglong Deng, Ph.D. candidate at the Institute of Information Engineering, Chinese Academy of Sciences. His research focuses on accelerating Fully Homomorphic Encryption (FHE), privacy-preserving computation, and trusted AI systems.
-canonical: https://xianglongdeng.github.io/
+description: Chao Niu, Assistant Researcher at Ant Group. His research focuses on Fully Homomorphic Encryption (FHE), symmetric cryptography security analysis, and privacy-preserving computation.
+canonical: https://your-github-username.github.io/ # 请将其替换为你的实际 GitHub Pages 地址
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=CeVhT-0AAAAJ&hl=zh-CN&oi=ao
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/xldeng-chn/
-linkedin: https://www.linkedin.com/in/xianglong-deng-85924b18b/
-# twitter: https://twitter.com/
+# github_link: https://github.com/your-username/ # 如果有 GitHub 主页可以取消注释并填入
+# google_scholar: https://scholar.google.com/ # 如果有 Google Scholar 主页可以取消注释并填入
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/xianglong.jpg
+avatar: ./assets/img/avatar.jpg # 建议将你的证件照重命名为 avatar.jpg 并放入对应目录
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
@@ -36,10 +34,6 @@ auto_dark_mode: true
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
