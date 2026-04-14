@@ -1,55 +1,54 @@
 main:
-  - [cite_start]title: "XBOOT: Free-XOR Gates for CKKS with Applications to Transciphering" # [cite: 22]
-    [cite_start]authors: "Chao Niu, Zhicong Huang, Zhaomin Yang, Yi Chen, Liang Kong, Cheng Hong, Tao Wei" # [cite: 22]
-    [cite_start]conference: "CHES 2025" # [cite: 23]
+  - title: "XBOOT: Free-XOR Gates for CKKS with Applications to Transciphering"
+    authors: "Chao Niu, Zhicong Huang, Zhaomin Yang, Yi Chen, Liang Kong, Cheng Hong, Tao Wei"
+    conference: "CHES 2025"
     conference_short: "CHES"
-    [cite_start]notes: "CCF B会议" # [cite: 23]
-    # pdf: "链接地址" (如果有PDF链接，取消注释并填入)
+    notes: "CCF B会议"
 
-  - [cite_start]title: "SoK: FHE-friendly Symmetric Ciphers and Transciphering" # [cite: 24]
-    [cite_start]authors: "Chao Niu, Benqiang Wei, Zhicong Huang, Zhaomin Yang, Cheng Hong, Meiqin Wang, Tao Wei" # [cite: 24]
-    [cite_start]conference: "CHES 2025" # [cite: 25]
+  - title: "SoK: FHE-friendly Symmetric Ciphers and Transciphering"
+    authors: "Chao Niu, Benqiang Wei, Zhicong Huang, Zhaomin Yang, Cheng Hong, Meiqin Wang, Tao Wei"
+    conference: "CHES 2025"
     conference_short: "CHES"
-    [cite_start]notes: "CCF B会议" # [cite: 25]
+    notes: "CCF B会议"
 
-  - [cite_start]title: "Improved Differential and Linear Cryptanalysis on Round-Reduced SIMON" # [cite: 26]
-    [cite_start]authors: "Chao Niu, Muzhou Li, Jifu Zhang, Meiqin Wang" # [cite: 26]
-    [cite_start]conference: "Designs, Codes and Cryptography" # [cite: 27]
+  - title: "Improved Differential and Linear Cryptanalysis on Round-Reduced SIMON"
+    authors: "Chao Niu, Muzhou Li, Jifu Zhang, Meiqin Wang"
+    conference: "Designs, Codes and Cryptography"
     conference_short: "DCC"
-    [cite_start]notes: "CCF B期刊" # [cite: 27]
+    notes: "CCF B期刊"
 
-  - [cite_start]title: "Zero-Correlation Linear Cryptanalysis with Equal Treatment for Plaintexts and Tweakeys" # [cite: 28]
-    [cite_start]authors: "Chao Niu, Muzhou Li, Siwei Sun, Meiqin Wang" # [cite: 28]
-    [cite_start]conference: "CT-RSA 2021" # [cite: 29]
+  - title: "Zero-Correlation Linear Cryptanalysis with Equal Treatment for Plaintexts and Tweakeys"
+    authors: "Chao Niu, Muzhou Li, Siwei Sun, Meiqin Wang"
+    conference: "CT-RSA 2021"
     conference_short: "CT-RSA"
-    [cite_start]notes: "CCF C会议" # [cite: 29]
+    notes: "CCF C会议"
 
-  - [cite_start]title: "Related-Tweak Impossible Differential Cryptanalysis of Reduced-Round TweAES" # [cite: 30]
-    [cite_start]authors: "Chao Niu, Muzhou Li, Meiqin Wang, Qingju Wang, and Siu-Ming Yiu" # [cite: 30]
-    [cite_start]conference: "SAC 2021" # [cite: 31]
+  - title: "Related-Tweak Impossible Differential Cryptanalysis of Reduced-Round TweAES"
+    authors: "Chao Niu, Muzhou Li, Meiqin Wang, Qingju Wang, and Siu-Ming Yiu"
+    conference: "SAC 2021"
     conference_short: "SAC"
-    [cite_start]notes: "CCF C会议" # [cite: 31]
+    notes: "CCF C会议"
 
-  - [cite_start]title: "RBOOT: Accelerating Homomorphic Neural Network Inference by Fusing ReLU within Bootstrapping" # [cite: 33]
-    [cite_start]authors: "Zhaomin Yang, Chao Niu, Benqiang Wei, Zhicong Huang, Cheng Hong, Tao Wei" # [cite: 33]
-    [cite_start]conference: "Usenix Security 26" # [cite: 34]
+  - title: "RBOOT: Accelerating Homomorphic Neural Network Inference by Fusing ReLU within Bootstrapping"
+    authors: "Zhaomin Yang, Chao Niu, Benqiang Wei, Zhicong Huang, Cheng Hong, Tao Wei"
+    conference: "Usenix Security 26"
     conference_short: "USENIX Sec"
-    [cite_start]notes: "CCF A会议" # [cite: 34]
+    notes: "CCF A会议"
 
-  - [cite_start]title: "Towards Better Integral Distinguishers over Fp Based on Exact Coefficients of Monomials" # [cite: 35]
-    [cite_start]authors: "Muzhou Li, Jiamin Cui, Longzheng Cui, Kai Hu, Chao Niu, Meiqin Wang" # [cite: 35]
-    [cite_start]conference: "TIT" # [cite: 36]
+  - title: "Towards Better Integral Distinguishers over Fp Based on Exact Coefficients of Monomials"
+    authors: "Muzhou Li, Jiamin Cui, Longzheng Cui, Kai Hu, Chao Niu, Meiqin Wang"
+    conference: "TIT"
     conference_short: "TIT"
-    [cite_start]notes: "CCF A期刊" # [cite: 36]
+    notes: "CCF A期刊"
 
-  - [cite_start]title: "Related-Tweakey Impossible Differential Attack on Reduced-Round SKINNY-AEAD M1/M3" # [cite: 37]
-    [cite_start]authors: "Yanhong Fan, Muzhou Li, Chao Niu, Zhenyu Lu and Meiqin Wang" # [cite: 37]
-    [cite_start]conference: "CT-RSA 22" # [cite: 38]
+  - title: "Related-Tweakey Impossible Differential Attack on Reduced-Round SKINNY-AEAD M1/M3"
+    authors: "Yanhong Fan, Muzhou Li, Chao Niu, Zhenyu Lu and Meiqin Wang"
+    conference: "CT-RSA 22"
     conference_short: "CT-RSA"
-    [cite_start]notes: "CCF C会议" # [cite: 38]
+    notes: "CCF C会议"
 
-  - [cite_start]title: "Cryptanalysis of SPEEDY" # [cite: 39]
-    [cite_start]authors: "Jinliang Wang, Chao Niu, Qun Liu, Muzhou Li, Meiqin Wang" # [cite: 39]
-    [cite_start]conference: "ACISP 23" # [cite: 39]
+  - title: "Cryptanalysis of SPEEDY"
+    authors: "Jinliang Wang, Chao Niu, Qun Liu, Muzhou Li, Meiqin Wang"
+    conference: "ACISP 23"
     conference_short: "ACISP"
-    [cite_start]notes: "CCF C会议" # [cite: 39]
+    notes: "CCF C会议"
