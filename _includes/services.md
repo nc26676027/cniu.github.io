@@ -3,8 +3,6 @@
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://microarch.org/micro58/"><autocolor>Artifact Evaluation Committee, MICRO 2025</autocolor></a></li>
-  <li><a href="https://hpca-conf.org/2025/"><autocolor>Artifact Evaluation Committee, HPCA 2025</autocolor></a></li>
   <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
