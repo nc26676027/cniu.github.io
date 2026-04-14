@@ -1,63 +1,55 @@
 main:
+  - [cite_start]title: "XBOOT: Free-XOR Gates for CKKS with Applications to Transciphering" # [cite: 22]
+    [cite_start]authors: "Chao Niu, Zhicong Huang, Zhaomin Yang, Yi Chen, Liang Kong, Cheng Hong, Tao Wei" # [cite: 22]
+    [cite_start]conference: "CHES 2025" # [cite: 23]
+    conference_short: "CHES"
+    [cite_start]notes: "CCF B会议" # [cite: 23]
+    # pdf: "链接地址" (如果有PDF链接，取消注释并填入)
 
-  - title: "Trinity: A General Purpose FHE Accelerator"
-    authors: <strong>Xianglong Deng</strong>, Shengyu Fan, Zhicheng Hu, Zhuoyu Tian, Zihao Yang, Jiangrui Yu, Dingyuan Cao, Dan Meng, Rui Hou, Meng Li, Qian Lou, Mingzhe Zhang
-    conference_short: MICRO
-    conference: IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2024.
-    pdf: https://dl.acm.org/doi/pdf/10.1109/MICRO61859.2024.00033
-    code: 
-    bibtex: 
-    image: 
-    notes: 
-    doi: https://dl.acm.org/doi/10.1109/MICRO61859.2024.00033
-    slide: 
+  - [cite_start]title: "SoK: FHE-friendly Symmetric Ciphers and Transciphering" # [cite: 24]
+    [cite_start]authors: "Chao Niu, Benqiang Wei, Zhicong Huang, Zhaomin Yang, Cheng Hong, Meiqin Wang, Tao Wei" # [cite: 24]
+    [cite_start]conference: "CHES 2025" # [cite: 25]
+    conference_short: "CHES"
+    [cite_start]notes: "CCF B会议" # [cite: 25]
 
-  - title: "Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core"
-    authors: Dian Jiao*, <strong>Xianglong Deng*</strong>, Zhiwei Wang, Shengyu Fan, Dan Meng, Rui Hou, Mingzhe Zhang (* Equal contribution)
-    conference_short: ISCA
-    conference: International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2025.
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3695053.3731408
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
-    doi: https://doi.org/10.1145/3695053.3731408
-  
-  - title: "FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit"
-    authors: Shengyu Fan, <strong>Xianglong Deng</strong>, Liang Kong, Guiming Shi, Guang Fan, Dan Meng, Rui Hou, Mingzhe Zhang
-    conference_short: ISCA
-    conference: International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2025.
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3695053.3731408
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
-    doi: https://doi.org/10.1145/3695053.3731407
-  
-  - title: "HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching"
-    authors: Liang Kong, Shengyu Fan, <strong>Xianglong Deng</strong>, Lei Chen, Guang Fan, Guiming Shi, Yilan Zhu, Geng Yang, Shoumeng Yan, Mingzhe Zhang
-    conference_short: MICRO
-    conference: IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2025.
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3725843.3756123
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
-    doi: https://doi.org/10.1145/3725843.3756123
+  - [cite_start]title: "Improved Differential and Linear Cryptanalysis on Round-Reduced SIMON" # [cite: 26]
+    [cite_start]authors: "Chao Niu, Muzhou Li, Jifu Zhang, Meiqin Wang" # [cite: 26]
+    [cite_start]conference: "Designs, Codes and Cryptography" # [cite: 27]
+    conference_short: "DCC"
+    [cite_start]notes: "CCF B期刊" # [cite: 27]
 
+  - [cite_start]title: "Zero-Correlation Linear Cryptanalysis with Equal Treatment for Plaintexts and Tweakeys" # [cite: 28]
+    [cite_start]authors: "Chao Niu, Muzhou Li, Siwei Sun, Meiqin Wang" # [cite: 28]
+    [cite_start]conference: "CT-RSA 2021" # [cite: 29]
+    conference_short: "CT-RSA"
+    [cite_start]notes: "CCF C会议" # [cite: 29]
 
-  
-  - title: "WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores"
-    authors: Guang Fan, Mingzhe Zhang, Fangyu Zheng, Shengyu Fan, Tian Zhou, <strong>Xianglong Deng</strong>, Wenxu Tang, Liang Kong, Yixuan Song, and Shoumeng Yan
-    conference_short: HPCA
-    conference: IEEE International Symposium on High Performance Computer Architecture <strong>(HPCA)</strong>, 2025.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10946827
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
-    doi: https://doi.org/10.1109/HPCA61900.2025.00091
+  - [cite_start]title: "Related-Tweak Impossible Differential Cryptanalysis of Reduced-Round TweAES" # [cite: 30]
+    [cite_start]authors: "Chao Niu, Muzhou Li, Meiqin Wang, Qingju Wang, and Siu-Ming Yiu" # [cite: 30]
+    [cite_start]conference: "SAC 2021" # [cite: 31]
+    conference_short: "SAC"
+    [cite_start]notes: "CCF C会议" # [cite: 31]
+
+  - [cite_start]title: "RBOOT: Accelerating Homomorphic Neural Network Inference by Fusing ReLU within Bootstrapping" # [cite: 33]
+    [cite_start]authors: "Zhaomin Yang, Chao Niu, Benqiang Wei, Zhicong Huang, Cheng Hong, Tao Wei" # [cite: 33]
+    [cite_start]conference: "Usenix Security 26" # [cite: 34]
+    conference_short: "USENIX Sec"
+    [cite_start]notes: "CCF A会议" # [cite: 34]
+
+  - [cite_start]title: "Towards Better Integral Distinguishers over Fp Based on Exact Coefficients of Monomials" # [cite: 35]
+    [cite_start]authors: "Muzhou Li, Jiamin Cui, Longzheng Cui, Kai Hu, Chao Niu, Meiqin Wang" # [cite: 35]
+    [cite_start]conference: "TIT" # [cite: 36]
+    conference_short: "TIT"
+    [cite_start]notes: "CCF A期刊" # [cite: 36]
+
+  - [cite_start]title: "Related-Tweakey Impossible Differential Attack on Reduced-Round SKINNY-AEAD M1/M3" # [cite: 37]
+    [cite_start]authors: "Yanhong Fan, Muzhou Li, Chao Niu, Zhenyu Lu and Meiqin Wang" # [cite: 37]
+    [cite_start]conference: "CT-RSA 22" # [cite: 38]
+    conference_short: "CT-RSA"
+    [cite_start]notes: "CCF C会议" # [cite: 38]
+
+  - [cite_start]title: "Cryptanalysis of SPEEDY" # [cite: 39]
+    [cite_start]authors: "Jinliang Wang, Chao Niu, Qun Liu, Muzhou Li, Meiqin Wang" # [cite: 39]
+    [cite_start]conference: "ACISP 23" # [cite: 39]
+    conference_short: "ACISP"
+    [cite_start]notes: "CCF C会议" # [cite: 39]
